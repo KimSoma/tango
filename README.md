@@ -3,7 +3,7 @@ This repository is providing source codes of Tango projects I created. **Before 
 ## Apps for 3D scanning:
 The main project of this repository is [Open Constructor](https://github.com/lvonasek/tango/wiki/Open-Constructor) - the 3D scanner for Tango devices:
 * Lenovo Phab 2 Pro
-* Asus Zenfone AR (supported as long as this device has Android 7.0 only - Google is going to remove Tango from this device)
+* Asus Zenfone AR - supported but it is suffering from overheating and unstability when the device decrease CPU frequency 
 * Google Yellowstone tablet (supported as long as this device has no update from 06/2017 - Google removed Tango from this device)
 
 Download this app [from Google Play](https://play.google.com/store/apps/details?id=com.lvonasek.openconstructor)
